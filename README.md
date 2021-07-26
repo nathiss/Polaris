@@ -2,7 +2,7 @@
 
 Polaris is a public repo with my vector graphics.
 
-Check it out on [Github Pages](https://nathiss.github.io/Polaris).
+Check it out on [Github Pages](https://nathiss.github.io/Polaris/).
 
 ## License
 
