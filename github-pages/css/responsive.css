@@ -1,0 +1,6 @@
+/* Bootstrap sm */
+@media (max-width: 576px) {
+    .site-header h1 {
+        font-size: 5em;
+    }
+}
