@@ -64,6 +64,10 @@ a:not([class="image-link"]):hover, a:not([class="image-link"]):active {
     transition: .3s;
 }
 
+.image-link-icon-box.light {
+    color: #FEFDEB;
+}
+
 .image-link-icon-box:hover {
     opacity: .7;
 }
