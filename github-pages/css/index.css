@@ -1,5 +1,4 @@
 html, body {
-    width: 100vw;
     min-height: 100vh;
     background-color: #FEFDEB;
     font-family: 'Lato', sans-serif;
@@ -90,7 +89,7 @@ a:not([class="image-link"]):hover, a:not([class="image-link"]):active {
 }
 
 .site-footer {
-    margin-top: 3em;
+    margin: 3em 0 1em 0;
 }
 
 .site-footer p {
