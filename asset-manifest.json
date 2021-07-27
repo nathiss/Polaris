@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Polaris/static/css/main.980c8dea.chunk.css",
+    "main.js": "/Polaris/static/js/main.700b3848.chunk.js",
+    "main.js.map": "/Polaris/static/js/main.700b3848.chunk.js.map",
+    "runtime-main.js": "/Polaris/static/js/runtime-main.2e778f5e.js",
+    "runtime-main.js.map": "/Polaris/static/js/runtime-main.2e778f5e.js.map",
+    "static/css/2.6ef2fac9.chunk.css": "/Polaris/static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.2843d02f.chunk.js": "/Polaris/static/js/2.2843d02f.chunk.js",
+    "static/js/2.2843d02f.chunk.js.map": "/Polaris/static/js/2.2843d02f.chunk.js.map",
+    "static/js/3.8eafa46b.chunk.js": "/Polaris/static/js/3.8eafa46b.chunk.js",
+    "static/js/3.8eafa46b.chunk.js.map": "/Polaris/static/js/3.8eafa46b.chunk.js.map",
+    "index.html": "/Polaris/index.html",
+    "static/css/2.6ef2fac9.chunk.css.map": "/Polaris/static/css/2.6ef2fac9.chunk.css.map",
+    "static/css/main.980c8dea.chunk.css.map": "/Polaris/static/css/main.980c8dea.chunk.css.map",
+    "static/js/2.2843d02f.chunk.js.LICENSE.txt": "/Polaris/static/js/2.2843d02f.chunk.js.LICENSE.txt",
+    "static/media/bulbs-1920x1080.108a7b33.png": "/Polaris/static/media/bulbs-1920x1080.108a7b33.png",
+    "static/media/photo-icon.ec985c33.svg": "/Polaris/static/media/photo-icon.ec985c33.svg",
+    "static/media/planet-1920x1080.ba78e784.png": "/Polaris/static/media/planet-1920x1080.ba78e784.png",
+    "static/media/plant-pots-1920x1080.54cc0f57.png": "/Polaris/static/media/plant-pots-1920x1080.54cc0f57.png",
+    "static/media/tumbleweed-1920x1080.84a0bf1b.png": "/Polaris/static/media/tumbleweed-1920x1080.84a0bf1b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e778f5e.js",
+    "static/css/2.6ef2fac9.chunk.css",
+    "static/js/2.2843d02f.chunk.js",
+    "static/css/main.980c8dea.chunk.css",
+    "static/js/main.700b3848.chunk.js"
+  ]
+}
