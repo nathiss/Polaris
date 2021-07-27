@@ -1,0 +1,41 @@
+@import "./styles/theme.scss";
+
+.App {
+    min-height: 100vh;
+    background: $ivory;
+    padding: 0 4vw;
+}
+
+hr {
+    height: 1px;
+    margin: 1rem 0 0 0;
+    color: inherit;
+    background-color: currentColor;
+    border: 0;
+    opacity: .25;
+}
+
+a:not([class="no-link"]) {
+    &, &:visited {
+        color: inherit;
+    }
+
+    &, &:hover, &:active, &:visited {
+        text-decoration-thickness: 1.5px;
+        text-decoration-style: dotted;
+        text-decoration-line: underline;
+        transition: color .3s;
+    }
+
+    &:hover, &:active {
+        color: $orange !important;
+    }
+}
+
+a.no-link {
+    &, &:hover, &:active, &:visited {
+        color: inherit !important;
+        text-decoration: none !important;
+        transition: 0 !important;
+    }
+}

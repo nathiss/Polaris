@@ -1,0 +1,16 @@
+{
+  "short_name": "Polaris",
+  "name": "Polaris | Vector image gallery",
+  "lang": "en-US",
+  "categories": [
+      "svg",
+      "gallery",
+      "vector graphics",
+      "Inkscape"
+  ],
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F77F00",
+  "background_color": "#FEFDEB"
+}
