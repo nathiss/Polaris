@@ -1,6 +1,6 @@
 .site-header {
     text-align: center;
-    padding: 3em 0 0 0;
+    padding: 4em 0 0 0;
     margin-bottom: 5em;
 
     h1 {
@@ -20,5 +20,9 @@
         @media (max-width: 600px) {
             font-size: 1em;
         }
+    }
+
+    hr {
+        margin-top: 4em;
     }
 }
