@@ -17,7 +17,7 @@
          .image-border {
             transform: scale(1.025);
 
-            > img {
+            .main-image {
                 $blurValue: 3px;
                 filter: blur($blurValue);
                 -webkit-filter: blur($blurValue);
@@ -88,7 +88,7 @@
     border-radius: .25rem;
     transition: $transitionSpeed;
 
-    > img {
+    .main-image {
         max-width: 100%;
         height: auto;
         transition: $transitionSpeed;

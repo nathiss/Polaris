@@ -1,6 +1,8 @@
 import { Grid } from '@material-ui/core';
 import React from 'react';
+import { LazyLoadImage } from 'react-lazy-load-image-component';
 
+import 'react-lazy-load-image-component/src/effects/blur.css';
 import './ImageBox.scss';
 
 import PhotoIcon from './photo-icon.svg';
@@ -37,7 +39,11 @@ class ImageBox extends React.Component<ImageBoxProps> {
                             {this.ImageName !== null && <p>{this.ImageName}</p>}
                         </div>
                         <div className="image-border">
-                            <img src={this.props.image} alt={this.props.name} />
+                            <LazyLoadImage
+                                className="main-image"
+                                src={this.props.image}
+                                alt={this.props.name}
+                                effect="blur" />
                         </div>
                     </div>
                 </a>
