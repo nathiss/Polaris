@@ -1,4 +1,4 @@
-import { Grid } from '@material-ui/core';
+import { Grid, GridSize } from '@material-ui/core';
 import React from 'react';
 import { LazyLoadImage } from 'react-lazy-load-image-component';
 
@@ -14,6 +14,8 @@ interface ImageBoxProps {
     image: string;
     folderPath: string;
     iconStyle?: "dark" | "light";
+    sm?: GridSize;
+    md?: GridSize;
 }
 
 class ImageBox extends React.Component<ImageBoxProps> {
@@ -31,7 +33,7 @@ class ImageBox extends React.Component<ImageBoxProps> {
 
     render() {
         return (
-            <Grid item sm={12} md={6}>
+            <Grid item sm={this.props.sm ?? 12} md={this.props.md ?? 6} >
                 <a href={this.buildFolderUrl(this.props.folderPath)} className="no-link image-link">
                     <div className="image-box">
                         <div className={`image-icon-box ${this.props.iconStyle === "light" ? "light" : "dark"}`}>

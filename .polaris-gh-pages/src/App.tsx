@@ -9,6 +9,7 @@ import Tumbleweed from './images/tumbleweed-1920x1080.png';
 import Bulbs from './images/bulbs-1920x1080.png';
 import PlantPots from './images/plant-pots-1920x1080.png';
 import Planet from './images/planet-1920x1080.png';
+import SteamOnTheHorizon from './images/steam-on-the-horizon-1920x1080.png';
 
 function App() {
     return (
@@ -35,6 +36,11 @@ function App() {
                     image={Planet}
                     folderPath="Planet"
                     iconStyle="light" />
+
+                <ImageBox name="Steam on the horizon"
+                    image={SteamOnTheHorizon}
+                    folderPath="Steam-on-the-horizon"
+                    md={7} />
 
             </Grid>
 
