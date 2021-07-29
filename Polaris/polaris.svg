@@ -9,6 +9,9 @@
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
    sodipodi:docname="polaris.svg"
+   inkscape:export-filename="D:\Polaris\Polaris\polaris-1920x1080.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,14 +32,14 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="0.394433"
-     inkscape:cx="733.96495"
-     inkscape:cy="543.81859"
+     inkscape:cx="552.69209"
+     inkscape:cy="736.50024"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g15512"
+     inkscape:current-layer="layer5"
      inkscape:snap-intersection-paths="true" />
   <defs
      id="defs2">
@@ -56,6 +59,7 @@
      inkscape:label="Background"
      inkscape:groupmode="layer"
      id="layer1"
+     style="display:inline"
      sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#f9eadc;fill-opacity:1;stroke-width:0;stroke-linejoin:round"
@@ -67,20 +71,42 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Star Box"
+     style="display:none">
+    <rect
+       style="opacity:1;fill:#f9eadc;fill-opacity:1;stroke:none;stroke-width:0.529168;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect20945"
+       width="135.46666"
+       height="135.46669"
+       x="179.65208"
+       y="68.527069"
+       ry="39.002514"
+       inkscape:export-filename="D:\Polaris\Polaris\favicon\favicon-180x180-box-light.png"
+       inkscape:export-xdpi="33.75"
+       inkscape:export-ydpi="33.75" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Star"
+     style="display:inline"
      sodipodi:insensitive="true">
     <path
        id="path5053"
        style="opacity:1;fill:#342e37;fill-opacity:1;stroke-width:0.529167;stroke-linejoin:round"
-       inkscape:transform-center-x="4.672086e-06"
-       inkscape:transform-center-y="-3.0318497e-06"
-       d="m 254.00001,75.14169 -3.04361,55.64682 -24.93477,-15.89189 15.89191,24.93475 -55.64688,3.04363 55.64688,3.04363 -15.89191,24.93357 24.93477,-15.89073 3.04361,55.64684 3.04365,-55.64802 24.9335,15.89191 -15.89184,-24.93357 55.64802,-3.04363 -55.64802,-3.04363 15.89184,-24.93475 -24.9335,15.89307 z m 0,56.92508 1.95905,8.848 8.84798,1.96023 -8.84798,1.95905 -1.95905,8.848 -1.96023,-8.848 -8.84801,-1.95905 8.84801,-1.96023 z" />
+       inkscape:transform-center-x="6.9403393e-06"
+       inkscape:transform-center-y="-3.5884881e-06"
+       d="m 247.38543,74.553201 -2.77283,50.696039 -22.71637,-14.47802 14.47803,22.71635 -50.69609,2.77285 50.69609,2.77284 -14.47803,22.71528 22.71637,-14.47696 2.77283,50.69605 2.77286,-50.69713 22.71522,14.47804 -14.47798,-22.71528 50.69713,-2.77284 -50.69713,-2.77285 14.47798,-22.71635 -22.71522,14.47909 z m 0,51.860569 1.78475,8.06081 8.0608,1.78584 -8.0608,1.78475 -1.78475,8.06082 -1.78584,-8.06082 -8.06082,-1.78475 8.06082,-1.78584 z"
+       inkscape:export-filename="D:\Polaris\Polaris\favicon\favicon-512x512-transparent-light.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Border"
+     style="display:inline"
      sodipodi:insensitive="true">
     <g
        id="g15512"
