@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="polaris.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title828">Polaris</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.394433"
+     inkscape:cx="733.96495"
+     inkscape:cy="543.81859"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g15512"
+     inkscape:snap-intersection-paths="true" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15129">
+      <rect
+         style="opacity:1;fill:#2e2f37;fill-opacity:0.490783;stroke:none;stroke-width:0.529169;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect15131"
+         width="6.6145835"
+         height="6.6145835"
+         x="123.16541"
+         y="53.067436" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Background"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#f9eadc;fill-opacity:1;stroke-width:0;stroke-linejoin:round"
+       id="rect858"
+       width="508"
+       height="285.75"
+       x="2.8421709e-14"
+       y="2.8421709e-14" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Star"
+     sodipodi:insensitive="true">
+    <path
+       id="path5053"
+       style="opacity:1;fill:#342e37;fill-opacity:1;stroke-width:0.529167;stroke-linejoin:round"
+       inkscape:transform-center-x="4.672086e-06"
+       inkscape:transform-center-y="-3.0318497e-06"
+       d="m 254.00001,75.14169 -3.04361,55.64682 -24.93477,-15.89189 15.89191,24.93475 -55.64688,3.04363 55.64688,3.04363 -15.89191,24.93357 24.93477,-15.89073 3.04361,55.64684 3.04365,-55.64802 24.9335,15.89191 -15.89184,-24.93357 55.64802,-3.04363 -55.64802,-3.04363 15.89184,-24.93475 -24.9335,15.89307 z m 0,56.92508 1.95905,8.848 8.84798,1.96023 -8.84798,1.95905 -1.95905,8.848 -1.96023,-8.848 -8.84801,-1.95905 8.84801,-1.96023 z" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Border"
+     sodipodi:insensitive="true">
+    <g
+       id="g15512"
+       style="fill:#342e37;fill-opacity:1">
+      <g
+         id="g20795"
+         transform="matrix(0.98958333,0,0,0.98148148,2.6458342,2.6458335)"
+         style="stroke-width:1.01469">
+        <rect
+           style="opacity:1;fill:#342e37;fill-opacity:1;stroke:none;stroke-width:0.53694;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect13685"
+           width="13.229167"
+           height="13.229167"
+           x="119.90444"
+           y="49.806465"
+           clip-path="url(#clipPath15129)"
+           transform="translate(-117.25847,-47.160428)" />
+        <path
+           id="rect13789"
+           style="opacity:1;fill:#342e37;fill-opacity:1;stroke:none;stroke-width:0.53694;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 0,0 V 1.6815514 2.6458333 245.75832 H 2.6458333 V 18.520833 H 15.875 v 5.29e-4 h 2.645833 V 2.6458465 H 466.62776 V 1.3229167e-5 Z M 2.6458333,2.6458333 H 15.875 V 15.875 H 2.6458333 Z M 21.166666,5.2916666 V 7.9374999 21.166666 H 5.2916666 V 22.654432 23.8125 246.46991 H 7.9374999 V 23.8125 H 22.424472 23.8125 V 7.9374999 H 467.04272 V 5.2916666 Z"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
+        <rect
+           style="opacity:1;fill:#342e37;fill-opacity:1;stroke:none;stroke-width:0.53694;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect20448"
+           width="13.229167"
+           height="13.229167"
+           x="119.90444"
+           y="49.806465"
+           clip-path="url(#clipPath15129)"
+           transform="matrix(1,0,0,-1,-117.25847,332.91043)" />
+        <path
+           id="path20450"
+           style="opacity:1;fill:#342e37;fill-opacity:1;stroke:none;stroke-width:0.53694;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 0,285.75 v -1.68155 -0.96428 -45.56363 h 2.645834 v 29.68863 H 15.875 v -5.3e-4 h 2.645833 v 15.87551 h 27.015921 v 2.64584 z m 2.645834,-2.64583 H 15.875 V 269.875 H 2.645834 Z m 18.520832,-2.64584 V 277.8125 264.58333 H 5.291667 v -1.48776 -1.15807 -25.10855 H 7.9375 V 261.9375 H 22.424472 23.8125 v 15.875 h 22.139216 v 2.64583 z" />
+        <rect
+           style="opacity:1;fill:#342e37;fill-opacity:1;stroke:none;stroke-width:0.53694;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect20452"
+           width="13.229167"
+           height="13.229167"
+           x="119.90444"
+           y="49.806465"
+           clip-path="url(#clipPath15129)"
+           transform="matrix(-1,0,0,1,625.25847,-47.160428)" />
+        <path
+           id="path20454"
+           style="opacity:1;fill:#342e37;fill-opacity:1;stroke:none;stroke-width:0.53694;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="M 508,0 V 1.6815514 2.6458333 241.56586 h -2.64583 V 18.520833 H 492.125 v 5.29e-4 h -2.64583 V 2.6458465 H 462.46325 V 1.3229167e-5 Z m -2.64583,2.6458333 H 492.125 V 15.875 h 13.22917 z M 486.83333,5.2916666 V 7.9374999 21.166666 h 15.875 V 22.654432 23.8125 242.27745 H 500.0625 V 23.8125 H 485.57553 484.1875 V 7.9374999 H 462.04828 V 5.2916666 Z"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
+        <rect
+           style="opacity:1;fill:#342e37;fill-opacity:1;stroke:none;stroke-width:0.53694;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect20456"
+           width="13.229167"
+           height="13.229167"
+           x="119.90444"
+           y="49.806465"
+           clip-path="url(#clipPath15129)"
+           transform="rotate(180,312.62923,166.45521)" />
+        <path
+           id="path20458"
+           style="opacity:1;fill:#342e37;fill-opacity:1;stroke:none;stroke-width:0.53694;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 508,285.75 v -1.68155 -0.96428 -45.56363 h -2.64583 v 29.68863 H 492.125 v -5.3e-4 h -2.64583 v 15.87551 H 33.322719 v 2.64584 z m -2.64583,-2.64583 H 492.125 V 269.875 h 13.22917 z m -18.52084,-2.64584 v -2.64583 -13.22917 h 15.875 v -1.48776 -1.15807 -25.10855 h -2.64583 v 25.10855 h -14.48697 -1.38803 v 15.875 H 32.907749 v 2.64583 z"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccc" />
+      </g>
+    </g>
+  </g>
+  <metadata
+     id="metadata824">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Kamil Rusin</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:language>English</dc:language>
+        <dc:title>Polaris</dc:title>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>

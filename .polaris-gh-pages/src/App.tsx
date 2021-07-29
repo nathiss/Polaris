@@ -10,6 +10,7 @@ import Bulbs from './images/bulbs-1920x1080.png';
 import PlantPots from './images/plant-pots-1920x1080.png';
 import Planet from './images/planet-1920x1080.png';
 import SteamOnTheHorizon from './images/steam-on-the-horizon-1920x1080.png';
+import Polaris from './images/polaris-4000x2250.png';
 
 function App() {
     return (
@@ -39,8 +40,11 @@ function App() {
 
                 <ImageBox name="Steam on the horizon"
                     image={SteamOnTheHorizon}
-                    folderPath="Steam-on-the-horizon"
-                    md={7} />
+                    folderPath="Steam-on-the-horizon" />
+
+                <ImageBox name="Polaris"
+                    image={Polaris}
+                    folderPath="Polaris" />
 
             </Grid>
 
