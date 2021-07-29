@@ -29,7 +29,7 @@ function App() {
                     image={Bulbs}
                     folderPath="Bulbs" />
 
-                <ImageBox name="PlantPots"
+                <ImageBox name="Plant Pots"
                     image={PlantPots}
                     folderPath="Plant-Pots" />
 
