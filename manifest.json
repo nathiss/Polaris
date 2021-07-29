@@ -1,16 +1,47 @@
 {
-  "short_name": "Polaris",
-  "name": "Polaris | Vector image gallery",
-  "lang": "en-US",
-  "categories": [
-      "svg",
-      "gallery",
-      "vector graphics",
-      "Inkscape"
-  ],
-  "icons": [],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#F77F00",
-  "background_color": "#FEFDEB"
+    "short_name": "Polaris",
+    "name": "Polaris | Vector image gallery",
+    "lang": "en-US",
+    "categories": [
+        "svg",
+        "gallery",
+        "vector graphics",
+        "Inkscape"
+    ],
+    "icons": [
+        {
+            "src": "favicon/favicon-16x16-box-light.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon/favicon-32x32-box-light.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon/favicon-64x64-box-light.png",
+            "sizes": "64x64",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon/favicon-180x180-box-light.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon/favicon-512x512-box-light.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon/favicon-1200x1200-box-light.png",
+            "sizes": "1200x1200",
+            "type": "image/png"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#F77F00",
+    "background_color": "#FEFDEB"
 }

@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/Polaris/static/css/main.8ab402ef.chunk.css",
-    "main.js": "/Polaris/static/js/main.64824092.chunk.js",
-    "main.js.map": "/Polaris/static/js/main.64824092.chunk.js.map",
-    "runtime-main.js": "/Polaris/static/js/runtime-main.1f347f0f.js",
-    "runtime-main.js.map": "/Polaris/static/js/runtime-main.1f347f0f.js.map",
-    "static/js/2.517767e6.chunk.js": "/Polaris/static/js/2.517767e6.chunk.js",
-    "static/js/2.517767e6.chunk.js.map": "/Polaris/static/js/2.517767e6.chunk.js.map",
-    "static/js/3.56f18c33.chunk.js": "/Polaris/static/js/3.56f18c33.chunk.js",
-    "static/js/3.56f18c33.chunk.js.map": "/Polaris/static/js/3.56f18c33.chunk.js.map",
+    "main.css": "/Polaris/static/css/main.3be5ccb6.chunk.css",
+    "main.js": "/Polaris/static/js/main.b66a2c0f.chunk.js",
+    "main.js.map": "/Polaris/static/js/main.b66a2c0f.chunk.js.map",
+    "runtime-main.js": "/Polaris/static/js/runtime-main.82dfd906.js",
+    "runtime-main.js.map": "/Polaris/static/js/runtime-main.82dfd906.js.map",
+    "static/js/2.4985bf28.chunk.js": "/Polaris/static/js/2.4985bf28.chunk.js",
+    "static/js/2.4985bf28.chunk.js.map": "/Polaris/static/js/2.4985bf28.chunk.js.map",
+    "static/js/3.122c2eab.chunk.js": "/Polaris/static/js/3.122c2eab.chunk.js",
+    "static/js/3.122c2eab.chunk.js.map": "/Polaris/static/js/3.122c2eab.chunk.js.map",
     "index.html": "/Polaris/index.html",
-    "static/css/main.8ab402ef.chunk.css.map": "/Polaris/static/css/main.8ab402ef.chunk.css.map",
-    "static/js/2.517767e6.chunk.js.LICENSE.txt": "/Polaris/static/js/2.517767e6.chunk.js.LICENSE.txt",
+    "static/css/main.3be5ccb6.chunk.css.map": "/Polaris/static/css/main.3be5ccb6.chunk.css.map",
+    "static/js/2.4985bf28.chunk.js.LICENSE.txt": "/Polaris/static/js/2.4985bf28.chunk.js.LICENSE.txt",
+    "static/media/brand-512x512.1ea33601.png": "/Polaris/static/media/brand-512x512.1ea33601.png",
     "static/media/bulbs-1920x1080.108a7b33.png": "/Polaris/static/media/bulbs-1920x1080.108a7b33.png",
     "static/media/photo-icon.ec985c33.svg": "/Polaris/static/media/photo-icon.ec985c33.svg",
     "static/media/planet-1920x1080.ba78e784.png": "/Polaris/static/media/planet-1920x1080.ba78e784.png",
     "static/media/plant-pots-1920x1080.54cc0f57.png": "/Polaris/static/media/plant-pots-1920x1080.54cc0f57.png",
+    "static/media/polaris-4000x2250.b4299014.png": "/Polaris/static/media/polaris-4000x2250.b4299014.png",
     "static/media/steam-on-the-horizon-1920x1080.12e5d057.png": "/Polaris/static/media/steam-on-the-horizon-1920x1080.12e5d057.png",
     "static/media/tumbleweed-1920x1080.84a0bf1b.png": "/Polaris/static/media/tumbleweed-1920x1080.84a0bf1b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.1f347f0f.js",
-    "static/js/2.517767e6.chunk.js",
-    "static/css/main.8ab402ef.chunk.css",
-    "static/js/main.64824092.chunk.js"
+    "static/js/runtime-main.82dfd906.js",
+    "static/js/2.4985bf28.chunk.js",
+    "static/css/main.3be5ccb6.chunk.css",
+    "static/js/main.b66a2c0f.chunk.js"
   ]
 }
