@@ -5,6 +5,7 @@ import LazyLoad from 'react-lazyload';
 import './ImageBox.scss';
 
 import PhotoIcon from './photo-icon.svg';
+import PhotoIconLight from './photo-icon-light.svg';
 
 import config from '../config.json';
 
@@ -43,14 +44,20 @@ class ImageBox extends React.Component<ImageBoxProps> {
         return `${config.REPO_URL}/tree/${config.BRANCH}/${folderName}`;
     }
 
+    getPhotoIcon() {
+        return (this.props.iconStyle ?? "dark") === "dark" ?
+            PhotoIcon :
+            PhotoIconLight;
+    }
+
     render() {
         return (
             <Grid item sm={this.props.sm ?? 12} md={this.props.md ?? 6} >
                 <a href={this.buildFolderUrl(this.props.folderPath)} className="no-link image-link">
                     <div className="image-box">
                         <div className={`image-icon-box ${this.props.iconStyle === "light" ? "light" : "dark"}`}>
-                            <img src={PhotoIcon} alt="Link" />
-                            {this.ImageName !== null && <p>{this.ImageName}</p>}
+                            <img src={this.getPhotoIcon()} alt="Link" />
+                            {this.ImageName !== null && <p className={this.props.iconStyle ?? "dark"}>{this.ImageName}</p>}
                         </div>
                         <div className="image-border">
                             <Image src={this.props.image} alt={this.props.name} />

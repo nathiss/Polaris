@@ -11,6 +11,7 @@ import PlantPots from './images/plant-pots-1920x1080.png';
 import Planet from './images/planet-1920x1080.png';
 import SteamOnTheHorizon from './images/steam-on-the-horizon-1920x1080.png';
 import Polaris from './images/polaris-4000x2250.png';
+import LightFromTheShadowShallSpring from './images/light-from-the-shadow-shall-spring-1920x1080.png';
 
 function App() {
     return (
@@ -45,6 +46,12 @@ function App() {
                 <ImageBox name="Polaris"
                     image={Polaris}
                     folderPath="Polaris" />
+
+                <ImageBox name="Light from the shadow shall spring"
+                    image={LightFromTheShadowShallSpring}
+                    folderPath="Light-from-the-shadow-shall-spring"
+                    iconStyle="light"
+                    md={8} />
 
             </Grid>
 
