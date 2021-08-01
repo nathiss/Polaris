@@ -1,3 +1,5 @@
+@import '../styles/common.scss';
+
 $siteTitleSize: 7em;
 $siteTitleSmallerSize: 4em;
 
@@ -11,7 +13,7 @@ $siteTitleSmallerSize: 4em;
         font-size: $siteTitleSize;
         font-weight: 100;
 
-        @media (max-width: 600px) {
+        @media (max-width: $sm-breakpoint) {
             font-size: $siteTitleSmallerSize;
         }
     }
@@ -20,7 +22,7 @@ $siteTitleSmallerSize: 4em;
         font-size: 1.25em;
         font-weight: 300;
 
-        @media (max-width: 600px) {
+        @media (max-width: $sm-breakpoint) {
             font-size: 1em;
         }
     }
@@ -34,7 +36,7 @@ $siteTitleSmallerSize: 4em;
     max-width: $siteTitleSize * 1.5;
     height: auto;
 
-    @media (max-width: 600px) {
+    @media (max-width: $sm-breakpoint) {
         max-width: $siteTitleSmallerSize * 1.5;
     }
 }

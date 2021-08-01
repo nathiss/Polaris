@@ -1,4 +1,4 @@
-@import '../styles/theme.scss';
+@import '../styles/common.scss';
 
 .image-link {
     display: block;
@@ -36,9 +36,15 @@
     flex-direction: column;
 
     > img {
-        width: 64px;
+        $imageWidth: 64px;
+
+        width: $imageWidth;
         height: auto;
         fill: #060 !important;
+
+        @media(max-width: $sm-breakpoint) {
+            width: $imageWidth * .75;
+        }
     }
 
     > p {
@@ -49,6 +55,11 @@
         text-decoration-style: dotted;
         text-decoration-thickness: 3px;
         margin: .5em 0 0 0;
+        text-align: center;
+
+        @media(max-width: $sm-breakpoint) {
+            font-size: 1.5em;
+        }
 
         &.dark {
             $color: $rich-black-fogra-29;

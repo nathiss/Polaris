@@ -52,7 +52,7 @@ class ImageBox extends React.Component<ImageBoxProps> {
 
     render() {
         return (
-            <Grid item sm={this.props.sm ?? 12} md={this.props.md ?? 6} >
+            <Grid item sm={this.props.sm ?? 12} md={this.props.md ?? 6}>
                 <a href={this.buildFolderUrl(this.props.folderPath)} className="no-link image-link">
                     <div className="image-box">
                         <div className={`image-icon-box ${this.props.iconStyle === "light" ? "light" : "dark"}`}>

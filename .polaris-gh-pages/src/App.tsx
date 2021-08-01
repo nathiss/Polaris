@@ -19,7 +19,7 @@ function App() {
             <Jumbotron />
 
             <Grid className="image-container" container
-                columnSpacing={3} rowSpacing={{sm:2, md: 4}}
+                columnSpacing={3} rowSpacing={{xs: 2, sm: 2, md: 4}}
                 justifyContent="center">
 
                 <ImageBox name="Tumbleweed"
